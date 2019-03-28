@@ -20,7 +20,7 @@ $Actions
 - Collect repair packs from the ground to refill health.
 
 
-$Illegal Actions
+Illegal Actions
 - Scaling on most of the inclines will be limited to shallow and moderate slopes/hills at best.
 - STEEP hills will not be climbable.
 - Structures cannot be destroyed.
@@ -29,14 +29,14 @@ $Illegal Actions
 Art Direction:
 WAR-THEMED atmosphere with background bombing sounds,shootings,ruins and eventually cloudy/rainy weather. The Environment must feel like a war zone!
 
-$3D ASSETS:
+3D ASSETS:
 - The individual tank parts
 - Ruined buildings
 - Trees
 - Repair Packs
 - different type of projectile shells(?)
 
-$2D ASSETS:
+2D ASSETS:
 Ground Textures(dirt,grass,rocky)
 
 $Particles
@@ -45,10 +45,10 @@ Smoke
 Sparkle effects
 Flames
 
-$Music
+Music
 Intense battling music, not too distracting from the battle, but not too quiet either.
 
-$Sound Effects
+Sound Effects
 - Reloading
 - Moving
 - Cannon fire
