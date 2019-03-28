@@ -14,7 +14,7 @@ The landscape will be a war-themed map with tank ruins, destroyed buildings, and
    *Optional* Second win condition may be when more than 1 tanks are still alive after the time limit and the winner is calculated by how much damage each individual tank has provoked. The most ferocious one wins.
    LOSE CONDITION: If your tank gets destroyed. It will blow up and the game will be over.
 
-$Actions
+Actions
 - Movement will be based on independently using left and right treads. The move speed will be extremely slow and turning sharply won't be possible without going into a almost static position
 - Your weapon is a cannon mounted on a rotating turret, which will fire a powerful projectile over a long distance.
 - Collect repair packs from the ground to refill health.
